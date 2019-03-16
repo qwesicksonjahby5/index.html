@@ -1,0 +1,51 @@
+<DOCTYPE html>
+<html>
+<head>
+
+
+
+
+
+
+
+
+             <title>HTML-LINKS</title>
+</head>
+<body>
+<h1>HTML-LINKSs.</h1>
+<h3>LINKING TO OTHER WEBSITES.</h3>
+<h4>POGRAMMING TUTORIALS REVIEW.</h4>
+
+<ul>
+<li><a href="https://www.W3SCHOOLS.com">W3 SCHOOL</a></li>
+<li><a href="https://www.UDEMY.com">UDEMY</a></li>
+<li><a href="https://www.PLURAL SITE.com">PLURAL SIGHT</a></li>
+<li><a href="https://www.TREE HOUSE.com">TREE HOUSE</a></li>
+</ul>
+<h3>LINKING TO OTHER PAGES ON THE SAME SITE.</h3>
+
+
+
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+
+<h3> RELATIVELY LINKS.</h3>
+<h4>same folder..</h4>
+<p> to link to a file in the same folder,just use the file name.</p>
+<p>example <a href"about.html">about</a></p>
+
+
+<h4>CHILD FOLDER</h4>
+<p>for a child folder,use the name of the child folder followed by a forward slash(/),then the file name.</p>
+<p>for example,to link to child.html inside the child folder from the homepage <a href="child/child.html">child</a></p>
+<p>for example,to link to example.html inside the example folder from the homepage <a href="example/example.html">example</a></p>
+</body>
+
+
+
+
+
+</html>
